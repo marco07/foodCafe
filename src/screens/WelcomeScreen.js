@@ -21,11 +21,7 @@ export default function WelcomeScreen() {
           }}
       />
 
-    <StatusBar
-        backgroundColor="#ffab91"
-        barStyle="light-content"
-        style="light"
-    />
+    <StatusBar style="light" />
 
       {/* Lottie Logo */}
 
